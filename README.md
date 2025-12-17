@@ -31,7 +31,9 @@ Kondisi SWITCH: Melakukan pengecekan nama hari saat ini dan mencetak hasil berda
 Perulangan FOR: Mencetak angka 1 sampai 10 secara berurutan. <p>
 Perulangan WHILE: Mencetak angka 1 sampai 10 secara berurutan, menggunakan increment ($i++) di dalam blok perulangan. <p>
 Perulangan DO-WHILE: Mencetak angka 1 sampai 10 secara berurutan, memastikan blok kode di dalam do dijalankan minimal satu kali sebelum kondisi di while dicek. <p>
-### Pertanyaan dan Tugas
+
+
+# Pertanyaan dan Tugas
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan. <p>
 ## Jawaban
 ### Buat File Dengan Nama Tugas.php
